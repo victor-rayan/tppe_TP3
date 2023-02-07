@@ -1,10 +1,10 @@
-# Característica : SIMPLICIDADE
+# Característica: SIMPLICIDADE
 
 ### Descrição: 
 
 A simplicidade é uma característica fundamental em software. Ela está ligada a um fator humano, se refere à facilidade de entendimento e uso do software, bem como à sua capacidade de ser mantido e evoluído ao longo do tempo.
 
-Ao manter a estrutura do código simples, é o código se torna mais claro e facilita a compreensão. O que ajuda a localizar e corrigir bugs. Além disso, a coesão do código é aumentada, já que as responsabilidades de cada componente são claras e bem definidas.
+Ao manter a estrutura do código simples, o código se torna mais claro e facilita a compreensão. O que ajuda a localizar e corrigir bugs. Além disso, a coesão do código é aumentada, já que as responsabilidades de cada componente são claras e bem definidas.
 
 A simplicidade contribui para a redução do acoplamento, o que torna o código mais flexível e fácil de ser modificado. Ajudando os novos desenvolvedores a entender e trabalhar com o código com mais facilidade.
 
