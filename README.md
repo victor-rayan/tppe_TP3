@@ -14,6 +14,14 @@ TP3
 |Wesley Pedrosa dos Santos  | 180029240 |
 ----
 # Entrega
+
+* [Simplicidade](./caracteristicas/SIMPLICIDADE.md);
+* [Elegância](./caracteristicas/Elegancia.md);
+* [Extensibilidade](./caracteristicas/Extensibilidade.md);
+* [Ausência de duplicidades](./caracteristicas/Ausencia_de_Duplicidades.md); 
+* [Boa documentação](./caracteristicas/boa_documentacao.md). 
+
+
 [Commit Simplicidade](https://github.com/victor-rayan/tppe_TP3/commit/a20ae2a2bd8f4c4ebbf0c706a1033678b76216ae)
 
 [Commit Ausência de duplicidades](https://github.com/victor-rayan/tppe_TP3/commit/c6dad2cb80576c5bd294ff94bd3db1c468434b45)
@@ -66,15 +74,15 @@ extensões e modificações) e menos suscetíveis a erros.
 
 Não há projeto errado e projeto certo, há mau e bom projeto. Bons projetos
 possuem as seguintes características: 
-* [Simplicidade](./src/SIMPLICIDADE.md);
-* [Elegância](./src/Elegancia.md);
+* [Simplicidade](./caracteristicas/SIMPLICIDADE.md);
+* [Elegância](./caracteristicas/Elegancia.md);
 * Modularidade (baixo acoplamento e alta coesão);
 * Boas interfaces; 
-* [Extensibilidade](./src/Extensibilidade.md);
-* [Ausência de duplicidades](./src/Ausencia_de_Duplicidades.md); 
+* [Extensibilidade](./caracteristicas/Extensibilidade.md);
+* [Ausência de duplicidades](./caracteristicas/Ausencia_de_Duplicidades.md); 
 * Portabilidade;
 * "Idiomático" (idioma da linguagem) e,
-* [Boa documentação](./src/boa_documentacao.md). 
+* [Boa documentação](./caracteristicas/boa_documentacao.md). 
 
 Fonte: _Code Craft : The Practice of Writing Excellent Code_, No Starch Press,
 Incorporated, 2006. _ProQuest Ebook Central_,
