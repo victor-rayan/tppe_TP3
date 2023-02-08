@@ -21,17 +21,6 @@ TP3
 * [Ausência de duplicidades](./caracteristicas/Ausencia_de_Duplicidades.md); 
 * [Boa documentação](./caracteristicas/boa_documentacao.md). 
 
-
-[Commit Simplicidade](https://github.com/victor-rayan/tppe_TP3/commit/a20ae2a2bd8f4c4ebbf0c706a1033678b76216ae)
-
-[Commit Ausência de duplicidades](https://github.com/victor-rayan/tppe_TP3/commit/c6dad2cb80576c5bd294ff94bd3db1c468434b45)
-
-[Commit Extensibilidade](https://github.com/victor-rayan/tppe_TP3/commit/f4d9d3a64b442303efb79ca9f59bf53713d00fff)
-
-[Commit Boa documentação](https://github.com/victor-rayan/tppe_TP3/commit/356f94356074e9cb181eeca376010f4aefd5d5c6)
-
-[Commit Elegância](https://github.com/victor-rayan/tppe_TP3/commit/59d1c2f7e78c7c7d7da8a2372864d237775676b2)
-
 ---
 Qualidade do projeto de código -- um breve resumo: 
 
