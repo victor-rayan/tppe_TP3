@@ -4,6 +4,26 @@ TP3
 ### UnB - Universidade de Brasilia 
 ### FGA - Faculdade do Gama
 ### TPPE - Técnicas de Programação para Plataformas Emergentes
+
+## Componentes do grupo:
+|Aluno  |  Matricula |
+| --------- | ------------------------------------------------------ |
+|Antonio Igor Carvalho | 180030264     | 
+|Mateus Moreira Lima | 180024868      | 
+| Victor Rayan Adriano Ferreira| 190044390 |
+|Wesley Pedrosa dos Santos  | 180029240 |
+----
+# Entrega
+[Commit Simplicidade](https://github.com/victor-rayan/tppe_TP3/commit/a20ae2a2bd8f4c4ebbf0c706a1033678b76216ae)
+
+[Commit Ausência de duplicidades](https://github.com/victor-rayan/tppe_TP3/commit/c6dad2cb80576c5bd294ff94bd3db1c468434b45)
+
+[Commit Extensibilidade](https://github.com/victor-rayan/tppe_TP3/commit/f4d9d3a64b442303efb79ca9f59bf53713d00fff)
+
+[Commit Boa documentação](https://github.com/victor-rayan/tppe_TP3/commit/356f94356074e9cb181eeca376010f4aefd5d5c6)
+
+[Commit Elegância](https://github.com/victor-rayan/tppe_TP3/commit/59d1c2f7e78c7c7d7da8a2372864d237775676b2)
+
 ---
 Qualidade do projeto de código -- um breve resumo: 
 
@@ -46,43 +66,16 @@ extensões e modificações) e menos suscetíveis a erros.
 
 Não há projeto errado e projeto certo, há mau e bom projeto. Bons projetos
 possuem as seguintes características: 
-* Simplicidade;
-* Elegância;
+* [Simplicidade](./src/SIMPLICIDADE.md);
+* [Elegância](./src/Elegancia.md);
 * Modularidade (baixo acoplamento e alta coesão);
 * Boas interfaces; 
-* Extensibilidade;
-* Ausência de duplicidades; 
+* [Extensibilidade](./src/Extensibilidade.md);
+* [Ausência de duplicidades](./src/Ausencia_de_Duplicidades.md); 
 * Portabilidade;
 * "Idiomático" (idioma da linguagem) e,
-* Boa documentação. 
+* [Boa documentação](./src/boa_documentacao.md). 
 
 Fonte: _Code Craft : The Practice of Writing Excellent Code_, No Starch Press,
 Incorporated, 2006. _ProQuest Ebook Central_,
 https://ebookcentral.proquest.com/lib/univbrasilia-ebooks/detail.action?docID=273481.
-
-#### Enunciado:
-
-As características de um bom projeto de software apresentadas acima estão, de
-certo modo, associadas aos maus-cheiros de código apresentados por Martin Fowler
-em seu catálogo de refatorações e relacionados às operações que tratam tais
-maus-cheiros. De acordo com a definição do próprio Martin Fowler, refatoração é
-uma maneira de **aperfeiçoar o projeto de código existente sem alterar o seu
-comportamento externamente observável**. 
-
-Para esse trabalho o grupo deverá escolher 5 características dentre as 9
-características de um bom projeto de software apresentadas acima e, para cada
-uma delas, apresentar:
-* uma descrição da característica, mostrando claramente quais são os seus
-    efeitos no código (em termo de estrutura, claridade, coesão, acoplamento
-    dentre outros efeitos aplicáveis);
-* uma relação da característica com os maus-cheiros de código definidos por
-    Fowler. Uma descrição dos maus cheiros está disponível nos [slides sobre o
-    conteúdo de refatoração](https://docs.google.com/presentation/d/1BG1DVjtOZeG-j3Fmj1cY1gz-4AW9FphX/edit?usp=sharing&ouid=112746484255766107555&rtpof=true&sd=true);
-* pelo menos uma operação de refatoração capaz de levar o projeto de código a
-    ter a característica em análise. 
-
-
-Valor do trabalho: 25 pontos, 0.5 ponto cada característica. 
-
-Prazo de entrega: 08 de fevereiro de 2023, 23:59:59hs. Entrega através do
-repositório do grupo de alunos. 
