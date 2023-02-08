@@ -15,7 +15,7 @@ TP3
 ----
 # Entrega
 
-* [Simplicidade](./caracteristicas/SIMPLICIDADE.md);
+* [Simplicidade](./caracteristicas/Simplicidade.md);
 * [Elegância](./caracteristicas/Elegancia.md);
 * [Extensibilidade](./caracteristicas/Extensibilidade.md);
 * [Ausência de duplicidades](./caracteristicas/Ausencia_de_Duplicidades.md); 
